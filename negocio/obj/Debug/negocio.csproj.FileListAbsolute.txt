@@ -1,0 +1,9 @@
+C:\Users\BELTARiT\Desktop\Nivel 3 de Maxi Programa\tp-final-nivel-3\negocio\bin\Debug\negocio.dll
+C:\Users\BELTARiT\Desktop\Nivel 3 de Maxi Programa\tp-final-nivel-3\negocio\bin\Debug\negocio.pdb
+C:\Users\BELTARiT\Desktop\Nivel 3 de Maxi Programa\tp-final-nivel-3\negocio\bin\Debug\dominio.dll
+C:\Users\BELTARiT\Desktop\Nivel 3 de Maxi Programa\tp-final-nivel-3\negocio\bin\Debug\dominio.pdb
+C:\Users\BELTARiT\Desktop\Nivel 3 de Maxi Programa\tp-final-nivel-3\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\BELTARiT\Desktop\Nivel 3 de Maxi Programa\tp-final-nivel-3\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\BELTARiT\Desktop\Nivel 3 de Maxi Programa\tp-final-nivel-3\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\BELTARiT\Desktop\Nivel 3 de Maxi Programa\tp-final-nivel-3\negocio\obj\Debug\negocio.dll
+C:\Users\BELTARiT\Desktop\Nivel 3 de Maxi Programa\tp-final-nivel-3\negocio\obj\Debug\negocio.pdb

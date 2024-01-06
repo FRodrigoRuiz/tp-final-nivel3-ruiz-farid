@@ -1,0 +1,6 @@
+C:\Users\BELTARiT\Desktop\Nivel 3 de Maxi Programa\tp-final-nivel-3\dominio\bin\Debug\dominio.dll
+C:\Users\BELTARiT\Desktop\Nivel 3 de Maxi Programa\tp-final-nivel-3\dominio\bin\Debug\dominio.pdb
+C:\Users\BELTARiT\Desktop\Nivel 3 de Maxi Programa\tp-final-nivel-3\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\BELTARiT\Desktop\Nivel 3 de Maxi Programa\tp-final-nivel-3\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\BELTARiT\Desktop\Nivel 3 de Maxi Programa\tp-final-nivel-3\dominio\obj\Debug\dominio.dll
+C:\Users\BELTARiT\Desktop\Nivel 3 de Maxi Programa\tp-final-nivel-3\dominio\obj\Debug\dominio.pdb
